@@ -1,0 +1,29 @@
+body{
+    
+    font-family: Calibri;
+    padding: 10px 20px;
+}
+
+h1 {
+	color: #FFFFFF;
+	background-color: #ffbd33;
+	padding: 10px;
+	border-radius: 20px 20px 0px 0px;
+	text-align: center;
+}
+
+h2 {
+	color: #ec2727;
+	background: #1cac8d;
+	padding: 15px 25px;
+	border-radius: 15px;
+	text-align: center;
+	word-spacing: 20px;
+	margin: 10px 20px 15px 20px;
+}
+
+section {
+	background-color: #b3ccc7;
+	padding: 5px;
+	border-radius: 0px 0px 15px 15px;
+}
